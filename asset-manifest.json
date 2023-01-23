@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bahaaeskif.github.io/%7BMagic-Memory%7D/static/css/main.3ed56f61.css",
-    "main.js": "/bahaaeskif.github.io/%7BMagic-Memory%7D/static/js/main.05ce2576.js",
-    "index.html": "/bahaaeskif.github.io/%7BMagic-Memory%7D/index.html",
-    "main.3ed56f61.css.map": "/bahaaeskif.github.io/%7BMagic-Memory%7D/static/css/main.3ed56f61.css.map",
-    "main.05ce2576.js.map": "/bahaaeskif.github.io/%7BMagic-Memory%7D/static/js/main.05ce2576.js.map"
+    "main.css": "/bahaaeskif.github.io/Magic-Memory/static/css/main.3ed56f61.css",
+    "main.js": "/bahaaeskif.github.io/Magic-Memory/static/js/main.05ce2576.js",
+    "index.html": "/bahaaeskif.github.io/Magic-Memory/index.html",
+    "main.3ed56f61.css.map": "/bahaaeskif.github.io/Magic-Memory/static/css/main.3ed56f61.css.map",
+    "main.05ce2576.js.map": "/bahaaeskif.github.io/Magic-Memory/static/js/main.05ce2576.js.map"
   },
   "entrypoints": [
     "static/css/main.3ed56f61.css",
