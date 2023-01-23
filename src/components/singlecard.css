@@ -1,0 +1,29 @@
+.card {
+    position: relative;
+}
+
+.card .card__front {
+    position: absolute;
+    transform: rotateY(90deg);
+    transition: all ease-in 0.2s;
+
+}
+
+.card__back {
+    transition: all ease-in 0.2s;
+}
+
+.flipped .card__front {
+    transform: rotateY(0deg);
+    transition-delay: 0.2s;
+}
+
+.card .card__back {
+    transform: rotateY(0deg);
+    transition-delay: 0.2s;
+}
+
+.flipped .card__back {
+    transform: rotateY(90deg);
+    transition-delay: 0s;
+}
