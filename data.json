@@ -1,0 +1,62 @@
+[
+    {
+        "id": 46464464654,
+        "name": "قهوة باردة",
+        "products": [
+            {
+                "id": "0abe0dd8-9be2-4950-af0d-d663d62d85fe",
+                "title": "fgfg",
+                "price": "5500",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/889ad8cac9f4718793fb9837ad05259661d6c07b-1280x853.jpg"
+            },
+            {
+                "id": "40b6455e-a2c9-4f82-84c9-f771ea2e2627",
+                "title": "Blueberry Coffee",
+                "price": "15000",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/736a077c80297afa3829660acaf569ea07a3ecf8-1280x853.jpg"
+            },
+            {
+                "id": "d17473b8-0421-4966-b280-fc5b1326c2ff",
+                "title": "Chocolate Mint",
+                "price": "5500",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/a11c0f9beef7b13406f8c142382b1258083f2a49-1280x853.jpg"
+            },
+            {
+                "id": "d738be33-5c35-414a-bd5e-f91c93359e44",
+                "title": "White Chocolate Raspberry",
+                "price": "15600",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/0f91cd745832b96093efe5af1e8a5ceb9a64de99-1280x853.jpg"
+            }
+        ]
+    },
+    {
+        "id": "6ds4a65d456as4d64as",
+        "name": "حلويات",
+        "products": [
+            {
+                "id": "0abe0dd8-9be2-4950-af0d-d663d62d85fe",
+                "title": "fgfg",
+                "price": "5500",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/889ad8cac9f4718793fb9837ad05259661d6c07b-1280x853.jpg"
+            },
+            {
+                "id": "40b6455e-a2c9-4f82-84c9-f771ea2e2627",
+                "title": "Blueberry Coffee",
+                "price": "15000",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/736a077c80297afa3829660acaf569ea07a3ecf8-1280x853.jpg"
+            },
+            {
+                "id": "d17473b8-0421-4966-b280-fc5b1326c2ff",
+                "title": "Chocolate Mint",
+                "price": "5500",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/a11c0f9beef7b13406f8c142382b1258083f2a49-1280x853.jpg"
+            },
+            {
+                "id": "d738be33-5c35-414a-bd5e-f91c93359e44",
+                "title": "White Chocolate Raspberry",
+                "price": "15600",
+                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/0f91cd745832b96093efe5af1e8a5ceb9a64de99-1280x853.jpg"
+            }
+        ]
+    }
+]
